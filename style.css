@@ -1,0 +1,105 @@
+body, html {
+  background-color: #dfdfdf;
+}
+
+#painting {
+  background-color: #ffffff;
+  width: 400px;
+  height: 400px;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#toprow {
+  height: 290px;
+}
+
+#bigbox {
+  width: 290px;
+  height: 290px;
+}
+
+.mediumbox {
+  width: 100px;
+  height: 140px;
+}
+
+#medium-smallbox {
+  height: 100px;
+  width: 60px;
+}
+
+#large-mediumbox {
+  height: 100px;
+  width: 220px;
+}
+
+#smallbox {
+  height: 45px;
+  width: 100px;
+}
+
+#smallestbox {
+  height: 45px;
+  width: 45px;
+}
+
+#divider1 {
+  height: 290px;
+  width: 10px;
+}
+
+#divider2 {
+  height: 10px;
+  width: 100px;
+}
+
+#middlerow {
+  height: 10px;
+  width: 400px;
+}
+
+#divider3{
+  height: 100px;
+  width: 10px;
+}
+
+#divider4 {
+  height: 100px;
+  width: 10px;
+}
+
+#divider5 {
+  height: 10px;
+  width: 100px;
+}
+
+#divider6{
+  width: 10px;
+  height: 45px;
+}
+
+.red {
+  background-color: #dd0100;
+}
+
+.blue {
+  background-color: #225095;
+}
+
+.yellow {
+  background-color: #fac901;
+}
+
+.black {
+  background-color: #30303a;
+}
+
+.white {
+  background-color: 	#ffffff;
+}
+
+.right {
+  float: right;
+}
